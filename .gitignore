@@ -1,0 +1,6 @@
+node_modules/
+dist/
+.DS_Store
+
+# Gravity is managed as its own Git repository.
+/gravity-lab/
